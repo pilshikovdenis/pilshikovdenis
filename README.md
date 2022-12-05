@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pilshikovdenis
 - 👀 I’m interested in Programming, Trading on Finance stocks
-- 🌱 I’m currently learning Backend development on Java
+- 🌱 I’m currently learning Backend development on Java/Php
 
 - 📫 Telegram @pilshchikov
 
